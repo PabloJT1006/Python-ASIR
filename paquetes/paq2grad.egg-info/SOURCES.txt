@@ -1,0 +1,6 @@
+setup.py
+paq2grad.egg-info/PKG-INFO
+paq2grad.egg-info/SOURCES.txt
+paq2grad.egg-info/dependency_links.txt
+paq2grad.egg-info/top_level.txt
+segundo/SecondGrado.py

@@ -1,0 +1,10 @@
+25739324T	Francisco	Guzman	26	H	1300
+67987654Q	Raquel	Filpo	22	M	500
+25262728Y	Pablo	Padilla	24	H	2000
+98762678N	Sonia	Romero	26	M	1800
+17829202S	Daniel	VanGelder	35	H	4000
+92827161H	Maria	Palacios	40	M	450
+82910101W	Pedro	Paton	50	H	3700
+92827278P	Francisco	Villalba	48	H	605
+56789345V	Araceli	Fernandez	41	M	3140
+29732736D	Antonio	Lopez	45	H	1850
